@@ -259,8 +259,8 @@ git config --global core.editor "code --wait"
 ### 1.6 사용자 아이디 저장
 
 ```bash
-git config --global user.name "id"
-git config --global user.name "id@gmail.com"
+git config --global user.name "msh1787"
+git config --global user.name "msh1787@gmail.com"
 ```
 
 <!-- terminal에 clear(타이핑)+enter 깔꼬롬-->
