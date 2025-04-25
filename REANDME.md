@@ -310,7 +310,17 @@ div {
 
 ### 6.1. 글꼴 구하기
 
-- 구글폰트(https://fonts.google.com/)
-- 눈누(https://noonnu.cc/font_page/pick)
-- 깃허브(https://github.com/orioncactus/pretendard)
-- 아이콘폰트 (https://fontawesome.com/icons)
+- 웹 폰트와 로컬 폰트의 구분 및 이해
+- [구글폰트(https://fonts.google.com/)]
+- [눈누(https://noonnu.cc/font_page/pick)]
+- [깃허브(https://github.com/orioncactus/pretendard)]
+- [아이콘폰트 (https://fontawesome.com/icons)]
+
+### 6.2. 글꼴 활용하기
+
+- CSS/common.css 참조
+
+## 7. css 살펴보기
+
+- margin (영역 바깥으로의 여백)
+- margin-top 은 오류를 발생시킬 수 있다.
