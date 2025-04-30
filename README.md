@@ -324,3 +324,28 @@ div {
 
 - margin (영역 바깥으로의 여백)
 - margin-top 은 오류를 발생시킬 수 있다.
+
+## position 을 꼭 기억하자.
+
+### 1. 내가 정확하게 px 로 위치를 지정하고 싶다.
+
+- 아래 처럼 할때 정말 주의하세요.
+- 바깥 영역에 `position : relative`가 있어야 해요.
+
+```css
+position : absolute;
+left : 0px
+top : 0px
+right : 0px
+bottom : 0px
+```
+
+2. 내가 웹 브라우저에 특정 위치에 고정하고 싶다.
+
+```css
+position : fixed;
+left : 0px
+top : 0px
+right : 0px
+bottom : 0px
+```
