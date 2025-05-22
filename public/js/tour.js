@@ -150,9 +150,14 @@ window.addEventListener("load", function () {
     swTour = new Swiper(".sw_tour", {
       slidesPerView: 3,
       spaceBetween: 30,
+      speed: 2000,
       navigation: {
         nextEl: ".tour_next",
         prevEl: ".tour_prev",
+      },
+      autoplay: {
+        delay: 3000,
+        disableOnInteraction: false,
       },
     });
 

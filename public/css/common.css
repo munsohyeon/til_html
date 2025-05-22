@@ -1,5 +1,5 @@
 @charset "utf-8";
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
 
 * {
   margin: 0;
@@ -28,7 +28,8 @@ body {
   /* 디자인 보고 수정 */
   color: #000000;
   /* 글꼴이 필요로 함. */
-  font-family: "Segoe UI", Roboto, Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: "Segoe UI", Roboto, Arial, "Noto Sans", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   letter-spacing: 0px;
   word-spacing: 0px;
 }
@@ -45,4 +46,28 @@ body {
     margin-left: auto;
   margin-right: auto; */
 }
-.
+/* 반응형 작업 */
+body {
+  background-color: mediumblue;
+}
+/* 반응형 작업시 띄어쓰기가 아주 중요 */
+@media screen and (max-width: 1024px) {
+  body {
+    background-color: aqua;
+  }
+}
+@media screen and (max-width: 960px) {
+  body {
+    background-color: aquamarine;
+  }
+}
+@media screen and (max-width: 760px) {
+  body {
+    background-color: skyblue;
+  }
+}
+@media screen and (max-width: 640px) {
+  body {
+    background-color: antiquewhite;
+  }
+}
