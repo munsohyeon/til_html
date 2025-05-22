@@ -4,7 +4,7 @@
     "list": [
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
+        "image": "./api/tour/대만.webp",
         "city": "대만",
         "title": "노쇼핑",
         "content": "[베스트셀러]대만 4일/노쇼핑,예스지,핑시선 낭만열차 탑승,미식투어",
@@ -12,67 +12,67 @@
       },
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
-        "city": "대만",
-        "title": "노쇼핑",
-        "content": "[베스트셀러]대만 4일/노쇼핑,예스지,핑시선 낭만열차 탑승,미식투어",
-        "price": "679,000"
+        "image": "./api/tour/라오스.webp",
+        "city": "라오스",
+        "title": "블루라군+동굴튜빙 포함",
+        "content": "[베스트셀러]라오스 비엔티엔/방비엥 5일, 블루라군+동굴튜빙+카약,풍등 띄우기,특식3회",
+        "price": "329,000"
       },
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
-        "city": "대만",
-        "title": "노쇼핑",
-        "content": "[베스트셀러]대만 4일/노쇼핑,예스지,핑시선 낭만열차 탑승,미식투어",
-        "price": "679,000"
+        "image": "./api/tour/시드니.webp",
+        "city": "시드니",
+        "title": "노팁노옵션,오페라하우스 내부 관광",
+        "content": "[출발확정] [홈쇼핑HIT] [NO팁/옵션] 시드니 완전일주 6일 (12대특전/5대특식)",
+        "price": "1,599,000"
       },
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
-        "city": "대만",
-        "title": "노쇼핑",
-        "content": "[베스트셀러]대만 4일/노쇼핑,예스지,핑시선 낭만열차 탑승,미식투어",
-        "price": "679,000"
+        "image": "./api/tour/두바이.webp",
+        "city": "두바이/아부다비",
+        "title": "대한항공 직항",
+        "content": "[두바이+아부다비 5일]전일정 월드체인5성 3연박,NO쇼핑,로맨틱 데저트",
+        "price": "1,099,000"
       },
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
-        "city": "대만",
-        "title": "노쇼핑",
-        "content": "[베스트셀러]대만 4일/노쇼핑,예스지,핑시선 낭만열차 탑승,미식투어",
-        "price": "679,000"
+        "image": "./api/tour/발리.webp",
+        "city": "발리",
+        "title": "액션캠,동영상 포함",
+        "content": "[사마사마 발리] 5월 프로모션 발리 블루라군 스노쿨링",
+        "price": "50,255"
       },
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
-        "city": "대만",
-        "title": "노쇼핑",
-        "content": "[베스트셀러]대만 4일/노쇼핑,예스지,핑시선 낭만열차 탑승,미식투어",
-        "price": "679,000"
+        "image": "./api/tour/오사카.webp",
+        "city": "오사카",
+        "title": "단독 30% 할인!",
+        "content": "[할인가11,900원][즉시확정] 오사카 아베노 하루카스 300 전망대 입장권",
+        "price": "11,900"
       },
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
-        "city": "대만",
-        "title": "노쇼핑",
-        "content": "[베스트셀러]대만 4일/노쇼핑,예스지,핑시선 낭만열차 탑승,미식투어",
-        "price": "679,000"
+        "image": "./api/tour/괌.webp",
+        "city": "괌",
+        "title": "15% 선착순 쿠폰 제공!",
+        "content": "퍼시픽 아일랜드 클럽 괌 (3박 이상 특가 판매)",
+        "price": "249,026"
       },
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
-        "city": "대만",
-        "title": "노쇼핑",
-        "content": "[베스트셀러]대만 4일/노쇼핑,예스지,핑시선 낭만열차 탑승,미식투어",
-        "price": "679,000"
+        "image": "./api/tour/코타키나발루.webp",
+        "city": "코타키나발루",
+        "title": "호핑투어&자유일정",
+        "content": "[기간한정특가] 코타키나발루 그란디스 슈페리어룸 3박5일",
+        "price": "269,000"
       },
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
-        "city": "대만",
-        "title": "노쇼핑",
-        "content": "[베스트셀러]대만 4일/노쇼핑,예스지,핑시선 낭만열차 탑승,미식투어",
-        "price": "679,000"
+        "image": "./api/tour/호놀룰ㄹ.webp",
+        "city": "호놀룰루",
+        "title": "10%쿠폰/리조트피 포함 요금 보유!",
+        "content": "하얏트 리젠시 와이키키 비치 리조트 & 스파",
+        "price": "316,381"
       }
     ]
   },

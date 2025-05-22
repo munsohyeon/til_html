@@ -1,4 +1,5 @@
 .tour {
+  position: relative;
   margin-top: 65px;
 }
 .section_top {
@@ -21,6 +22,7 @@
   color: rgba(0, 0, 0, 0.75);
 }
 .section_list {
+  position: relative;
 }
 .section_category {
   display: flex;
@@ -51,8 +53,7 @@
   font-weight: 700;
 }
 .section_slide {
-  display: flex;
-  gap: 25px;
+  position: relative;
   margin-bottom: 20px;
 }
 .item {
@@ -126,6 +127,7 @@
   color: #000;
 }
 .section_bts {
+  position: relative;
   display: flex;
   justify-content: center;
 }
@@ -143,4 +145,9 @@
 }
 .section_bts > a > img {
   transform: translateY(1px);
+}
+
+/* swiper 버튼 비활성시 표현 */
+.swiper-button-disabled {
+  display: none;
 }
