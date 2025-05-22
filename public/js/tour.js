@@ -94,9 +94,22 @@ window.addEventListener("load", function () {
   // 카테고리 버튼에 현재 포커스 표현하기
   function activeCateFocus() {
     cateButtonArr[cateFocusIndex].classList.add("cate_focus");
-    // console.log(bts);
+    makeTourListHtml();
   }
 
+  function makeTourListHtml() {
+    console.log("어느 목록을 출력할 것인가?" + cateListArr[cateFocusIndex]);
+    // 1. html 태그 만들기
+    // 1.1. 어디다가 만들지? querySelector 찾아줌.
+    const swTourWrap = document.querySelector(".section_slide");
+    // 2. swiper 생성
+    var swiper = new Swiper(".sw_tour", {
+      navigation: {
+        nextEl: ".sw_tour.swiper-button-next",
+        prevEl: ".sw_tour.swiper-button-prev",
+      },
+    });
+  }
   // 함수 호출
   getData(apiUrl, parseData);
 });
