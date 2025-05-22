@@ -206,7 +206,7 @@
       },
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
+        "image": "./api/tour/휘닉스.webp",
         "city": "전라",
         "title": "디럭스 트윈 산전망 룸온리 특가",
         "content": "호텔현대 바이 라한 목표",
@@ -214,7 +214,7 @@
       },
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
+        "image": "./api/tour/현대호텔.webp",
         "city": "강원",
         "title": "스탠다드 20평 + 액티비티1종",
         "content": "휘닉스 리조트 평창",
@@ -235,75 +235,75 @@
     "list": [
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
-        "city": "대만",
-        "title": "노쇼핑",
-        "content": "[베스트셀러]대만 4일/노쇼핑,예스지,핑시선 낭만열차 탑승,미식투어",
-        "price": "679,000"
+        "image": "./api/tour/롯데호텔.webp",
+        "city": "괌",
+        "title": "10%쿠폰+아이맞춤테마 브레드이발소 객실 인기!",
+        "content": "롯데 호텔 괌",
+        "price": "244,474"
       },
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
-        "city": "대만",
-        "title": "노쇼핑",
-        "content": "[베스트셀러]대만 4일/노쇼핑,예스지,핑시선 낭만열차 탑승,미식투어",
-        "price": "679,000"
+        "image": "./api/tour/롯데호텔.webp",
+        "city": "세부",
+        "title": "세부 5성급 인기 럭셔리 휴양 리조트",
+        "content": "샹그릴라 막탄 세부",
+        "price": "424,381"
       },
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
-        "city": "대만",
-        "title": "노쇼핑",
-        "content": "[베스트셀러]대만 4일/노쇼핑,예스지,핑시선 낭만열차 탑승,미식투어",
-        "price": "679,000"
+        "image": "./api/tour/클락키.webp",
+        "city": "싱가포르",
+        "title": "클락키/클릭키역 도보 3분 거리 4성급 호텔!",
+        "content": "파라독스 싱가포르 머천트 코트 앳 클락키",
+        "price": "269,545"
       },
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
-        "city": "대만",
-        "title": "노쇼핑",
-        "content": "[베스트셀러]대만 4일/노쇼핑,예스지,핑시선 낭만열차 탑승,미식투어",
-        "price": "679,000"
+        "image": "./api/tour/림바.webp",
+        "city": "발리",
+        "title": "10%쿠폰+2박전용/픽업/조식/런치1회 포함 특가 보유",
+        "content": "림바 바이 아야니 발리(2박 이상 예약 특가)",
+        "price": "232,275"
       },
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
-        "city": "대만",
-        "title": "노쇼핑",
-        "content": "[베스트셀러]대만 4일/노쇼핑,예스지,핑시선 낭만열차 탑승,미식투어",
-        "price": "679,000"
+        "image": "./api/tour/난바.webp",
+        "city": "오사카",
+        "title": "5%쿠폰+루프탑 대욕장 야경맛집",
+        "content": "칸데오 호텔 오사카 난바",
+        "price": "182,734"
       },
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
-        "city": "대만",
-        "title": "노쇼핑",
-        "content": "[베스트셀러]대만 4일/노쇼핑,예스지,핑시선 낭만열차 탑승,미식투어",
-        "price": "679,000"
+        "image": "./api/tour/센트럴.webp",
+        "city": "상하이",
+        "title": "뚜벅이 여행객 추천!",
+        "content": "센트럴 호텔 상하이",
+        "price": "142,805"
       },
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
-        "city": "대만",
-        "title": "노쇼핑",
-        "content": "[베스트셀러]대만 4일/노쇼핑,예스지,핑시선 낭만열차 탑승,미식투어",
-        "price": "679,000"
+        "image": "./api/tour/이스틴.webp",
+        "city": "방콕",
+        "title": "10%쿠폰+5성급 역세권 호텔",
+        "content": "이스틴 그랜드 호텔 파야타이",
+        "price": "176,965"
       },
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
-        "city": "대만",
-        "title": "노쇼핑",
-        "content": "[베스트셀러]대만 4일/노쇼핑,예스지,핑시선 낭만열차 탑승,미식투어",
-        "price": "679,000"
+        "image": "./api/tour/타이베이.webp",
+        "city": "타이베이",
+        "title": "9%쿠폰+패밀리룸 보유! 가족여행 추천",
+        "content": "타이베이 가든 호텔",
+        "price": "152,665"
       },
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
-        "city": "대만",
-        "title": "노쇼핑",
-        "content": "[베스트셀러]대만 4일/노쇼핑,예스지,핑시선 낭만열차 탑승,미식투어",
-        "price": "679,000"
+        "image": "./api/tour/깜란.webp",
+        "city": "나트랑",
+        "title": "10%쿠폰+2인셔틀/조식포함 특가 보유!",
+        "content": "더 아남 깜란",
+        "price": "220,832"
       }
     ]
   },
