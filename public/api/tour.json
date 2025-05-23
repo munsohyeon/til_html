@@ -243,7 +243,7 @@
       },
       {
         "link": "#",
-        "image": "./api/tour/롯데호텔.webp",
+        "image": "./api/tour/세부.webp",
         "city": "세부",
         "title": "세부 5성급 인기 럭셔리 휴양 리조트",
         "content": "샹그릴라 막탄 세부",
@@ -312,75 +312,75 @@
     "list": [
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
-        "city": "대만",
-        "title": "노쇼핑",
-        "content": "[베스트셀러]대만 4일/노쇼핑,예스지,핑시선 낭만열차 탑승,미식투어",
-        "price": "679,000"
+        "image": "./api/tour/취리히.webp",
+        "city": "취리히",
+        "title": "스위스 필수 교통패스!",
+        "content": "[최저가]스위스 트래블 패스 연속권",
+        "price": "179,000"
       },
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
-        "city": "대만",
-        "title": "노쇼핑",
-        "content": "[베스트셀러]대만 4일/노쇼핑,예스지,핑시선 낭만열차 탑승,미식투어",
-        "price": "679,000"
+        "image": "./api/tour/루아르.webp",
+        "city": "파리",
+        "title": "파리 근교 이색 투어",
+        "content": "[프랑스 이색투어]루아르 고성투어, 앙부아즈+쉬농소+샹보르성(외관만 감상)",
+        "price": "224,354"
       },
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
-        "city": "대만",
-        "title": "노쇼핑",
-        "content": "[베스트셀러]대만 4일/노쇼핑,예스지,핑시선 낭만열차 탑승,미식투어",
-        "price": "679,000"
+        "image": "./api/tour/쿠알로.webp",
+        "city": "하와이",
+        "title": "쿠알로아랜치 최고 인기 투어",
+        "content": "[하와이] 쿠알로아랜치 - UTV랩터 2시간",
+        "price": "102,480"
       },
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
-        "city": "대만",
-        "title": "노쇼핑",
-        "content": "[베스트셀러]대만 4일/노쇼핑,예스지,핑시선 낭만열차 탑승,미식투어",
-        "price": "679,000"
+        "image": "./api/tour/파타야.webp",
+        "city": "방콕",
+        "title": "오픈이벤트! 단돈 천원",
+        "content": "(방콕,파타야 출발)파타야 산호섬 반일투어(오전/오후)",
+        "price": "8,798"
       },
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
-        "city": "대만",
-        "title": "노쇼핑",
-        "content": "[베스트셀러]대만 4일/노쇼핑,예스지,핑시선 낭만열차 탑승,미식투어",
-        "price": "679,000"
+        "image": "./api/tour/보홀.webp",
+        "city": "보홀",
+        "title": "픽업드랍포함! 정어리떼호핑",
+        "content": "[보홀] 스타인 나팔링 & 히낙다난동굴 스노클링 (오전/오후,픽업드랍, 열대어,정어리떼, 프리다이빙)",
+        "price": "24,900"
       },
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
-        "city": "대만",
-        "title": "노쇼핑",
-        "content": "[베스트셀러]대만 4일/노쇼핑,예스지,핑시선 낭만열차 탑승,미식투어",
-        "price": "679,000"
+        "image": "./api/tour/타오위안.webp",
+        "city": "타이베이",
+        "title": "타이베이 공항철도 필수템 최저가",
+        "content": "[즉시확정] 타오위안 공항 MRT (편도/왕복/이지카드 콤보)",
+        "price": "6,927"
       },
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
-        "city": "대만",
-        "title": "노쇼핑",
-        "content": "[베스트셀러]대만 4일/노쇼핑,예스지,핑시선 낭만열차 탑승,미식투어",
-        "price": "679,000"
+        "image": "./api/tour/캐리비안베이.webp",
+        "city": "경기",
+        "title": "5/1 개장 실내외어트랙션",
+        "content": "미들시즌 캐리비안베이 이용권(25/5/30~25/6/12)",
+        "price": "25,000"
       },
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
-        "city": "대만",
-        "title": "노쇼핑",
-        "content": "[베스트셀러]대만 4일/노쇼핑,예스지,핑시선 낭만열차 탑승,미식투어",
-        "price": "679,000"
+        "image": "./api/tour/서커스.webp",
+        "city": "홍콩",
+        "title": "단독오픈",
+        "content": "홍콩 태양의서커스 KOOZA presented by UBS",
+        "price": "64,934"
       },
       {
         "link": "#",
-        "image": "https://media.triple.guide/triple-cms/c_fill,f_auto,h_450,w_580/7d4e0967-a6b5-47ae-92a8-9c5c1773b4a4.jpeg",
-        "city": "대만",
-        "title": "노쇼핑",
+        "image": "./api/tour/하루카.webp",
+        "city": "서일본",
+        "title": "WEST QR 시스템 오픈!",
         "content": "[베스트셀러]대만 4일/노쇼핑,예스지,핑시선 낭만열차 탑승,미식투어",
-        "price": "679,000"
+        "price": "12,133"
       }
     ]
   }

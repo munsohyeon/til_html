@@ -15,12 +15,14 @@
     <link rel="stylesheet" href="css/header.css" />
     <link rel="stylesheet" href="css/banner.css" />
     <link rel="stylesheet" href="css/tour.css" />
+    <link rel="stylesheet" href="css/trip.css" />
 
     <!-- js 초기 코드  -->
     <script src="js/index.js"></script>
     <script src="js/header.js"></script>
     <script src="js/banner.js"></script>
     <script src="js/tour.js"></script>
+    <!-- <script src="js/trip.js"></script> -->
   </head>
 
   <body>
@@ -101,7 +103,7 @@
         </div>
       </header>
       <!-- 메인 -->
-      <main>
+      <main class="main">
         <div class="layout">
           <!-- Banner -->
           <div class="banner">
@@ -113,11 +115,11 @@
               <div class="swiper-pagination"></div>
             </div>
 
-            <button class="slide_bt banner_left">
+            <button class="slide_bt banner_prev slide_bt_left">
               <img src="images/slider_arrow.svg" alt="left" title="left" />
             </button>
 
-            <button class="slide_bt banner_right">
+            <button class="slide_bt banner_next slide_bt_right">
               <img src="images/slider_arrow.svg" alt="right" title="right" />
             </button>
           </div>
@@ -142,11 +144,11 @@
                     <!-- API 연동 -->
                   </div>
                 </div>
-                <button class="slide_bt tour_prev banner_left">
+                <button class="slide_bt tour_prev slide_bt_left">
                   <img src="images/slider_arrow.svg" alt="left" title="left" />
                 </button>
 
-                <button class="slide_bt tour_next banner_right">
+                <button class="slide_bt tour_next slide_bt_right">
                   <img
                     src="images/slider_arrow.svg"
                     alt="right"
@@ -168,7 +170,49 @@
             </div>
           </div>
           <!-- Trip -->
-          <div></div>
+          <div class="trip">
+            <div class="section_trip_top">
+              <h2 class="section_title">
+                <img
+                  src="images/icon_w_trip_new.svg"
+                  alt="W트립 상품 더 보기"
+                  title="W트립 상품 더 보기"
+                />
+              </h2>
+              <span class="section_desc"
+                >누구와 여행 가시나요? 동행자별 맞춤여행</span
+              >
+            </div>
+
+            <div class="section_slide">
+              <!-- Swipe 투어 영역 -->
+              <div class="swiper sw_trip">
+                <div class="swiper-wrapper">
+                  <!-- API 연동 -->
+                </div>
+              </div>
+              <!-- 버튼 -->
+              <button class="slide_bt trip_prev slide_bt_left">
+                <img src="images/slider_arrow.svg" alt="left" title="left" />
+              </button>
+
+              <button class="slide_bt trip_next slide_bt_right">
+                <img src="images/slider_arrow.svg" alt="right" title="right" />
+              </button>
+            </div>
+
+            <!-- 트립 더보기 상품 -->
+            <div class="section_bts">
+              <a href="#">
+                W트립 상품 더 보기
+                <img
+                  src="images/icon_linkArrow.svg"
+                  alt="W트립 상품 더 보기"
+                  title="W트립 상품 더 보기"
+                />
+              </a>
+            </div>
+          </div>
           <!-- Ticket -->
           <div></div>
           <!-- Live -->
