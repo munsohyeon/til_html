@@ -26,3 +26,31 @@
   object-fit: cover;
   display: block;
 }
+/* 반응형 코드 */
+.sw_banner_pg {
+  display: none;
+  bottom: -25px !important;
+}
+
+@media all and (max-width: 1024px) {
+  .sw_banner_pg {
+    display: block;
+  }
+  .sw_banner_pg .sw {
+  }
+}
+@media all and (max-width: 960px) {
+  .sw_banner {
+    width: 350px;
+  }
+  .sw_banner_pg {
+    bottom: 10px !important;
+  }
+}
+/* 평상시 버튼 모습 */
+.sw_banner_pg .swiper-pagination-bullet {
+}
+/* 포커스시 버튼 모습 */
+.sw_banner_pg .swiper-pagination-bullet-active {
+  background-color: #000 !important;
+}
