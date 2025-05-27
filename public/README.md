@@ -170,4 +170,65 @@ postion:fixed 라고 셋팅하면 높이값이 반영이 안됩니다.
 
 ### 4.3. css 작업
 
-- header 영역 css
+- header 영역 css 작업
+- header 와 반응형 header를 분리해서 만들면 편하다.
+
+## 5. 자연스러운 반응형 계산법
+
+(ex)
+
+- PC 디자인 영역 너비가 1280px이다.
+- 특정 영역의 너비가 650px, 높이가 400px 이다.
+- 자연스러운 너비, 높이를 적용한다면?
+
+-정리
+
+- max-width: 650px, max-height: 400px
+- `영역너비(650px)/ 디자인 전체 영역 너비 (1280px) * 100 = 결과 vw`
+- `영역너비(400px)/ 디자인 전체 영역 너비 (1280px) * 100 = 결과 vw`
+
+```html
+<div class="box_wrap">
+  <div class="box">내용</div>
+</div>
+```
+
+```css
+.box_wrap {
+  position: relative;
+  width: 1280px;
+  background-color: hotpink;
+  margin: 0 auto;
+}
+.box {
+  position: relative;
+  max-width: 650px;
+  width: 50.78vw;
+  max-height: 400px;
+  height: 31.25vw;
+  background-color: yellowgreen;
+}
+```
+
+## 6.
+
+```css
+.popup {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 99999999999999;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.popup_content {
+  position: relative;
+  width: 50.78vw;
+  max-width: 650px;
+  height: 31.25vw;
+  max-height: 400px;
+  margin: 0 auto;
+  background-color: yellowgreen;
+}
+```

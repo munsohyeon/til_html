@@ -19,6 +19,11 @@ ul {
 }
 html {
   width: 100%;
+  /* 반응형 최소 너비 설정 */
+  min-width: 540px;
+  /* 가로 스크롤은 UI 상 좋지 않아요 */
+  overflow-x: hidden;
+
   /* 디자인 보고 수정 */
   font-size: 12px;
 }
@@ -96,28 +101,4 @@ body {
 /* swiper 버튼 비활성시 표현 */
 .swiper-button-disabled {
   display: none !important;
-}
-
-@media screen and (max-width: 1024px) {
-  body {
-    background-color: white;
-  }
-}
-
-@media screen and (max-width: 960px) {
-  body {
-    background-color: ;
-  }
-}
-
-@media screen and (max-width: 760px) {
-  body {
-    background-color: ;
-  }
-}
-
-@media screen and (max-width: 640px) {
-  body {
-    background-color: ;
-  }
 }

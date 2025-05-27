@@ -10,15 +10,15 @@
     text-align: center;
     */
 .section_title {
-  text-align: center;
   font-size: 28px;
   font-weight: 700;
+  text-align: center;
 }
 .section_desc {
   display: block;
-  text-align: center;
   font-size: 17px;
   font-weight: 300;
+  text-align: center;
   color: rgba(0, 0, 0, 0.75);
 }
 .section_list {
@@ -36,21 +36,21 @@
 .section_category_bts > li {
 }
 .section_category_bts > li > button {
-  border: 1px solid rgba(0, 0, 0, 0.13);
-  background-color: #fff;
-  box-shadow: 0 0 8px rgba(0, 0, 0, 0.05);
   padding: 12px 20px;
-  border-radius: 40px;
-  cursor: pointer;
   font-size: 14px;
   font-weight: 400;
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.13);
+  border-radius: 40px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.05);
   transition: all 0.4s;
+  cursor: pointer;
 }
 .section_category_bts > li > button.cate_focus {
-  border: 1px solid #333;
+  font-weight: 700;
   color: #fff;
   background-color: #333;
-  font-weight: 700;
+  border: 1px solid #333;
 }
 .section_slide {
   position: relative;
@@ -71,24 +71,24 @@
   margin-bottom: 25px;
 }
 .item_image > img {
+  display: block;
   width: 100%;
   /* 비율을 유지하면서 영역에 이미지 가득 채우기 */
   height: 100%;
   object-fit: cover;
-  display: block;
 }
 .item_name {
   position: absolute;
-  left: 20px;
   top: 235px;
-
-  background-color: #1769ff;
-  color: #fff;
+  left: 20px;
+  padding: 10px;
   font-size: 14px;
   font-weight: 600;
+  color: #fff;
+
+  background-color: #1769ff;
 
   border-radius: 4px;
-  padding: 10px;
 }
 .item_text {
   padding: 20px;
@@ -96,24 +96,24 @@
 }
 .item_cupon {
   display: block;
+  /* 말줄임 처리 */
+  overflow: hidden;
   font-size: 14px;
   font-weight: 500;
   color: #1769ff;
   /* 줄내림 방지 */
   white-space: nowrap;
-  /* 말줄임 처리 */
-  overflow: hidden;
   text-overflow: ellipsis;
 }
 .item_desc {
   display: block;
+  /* 말줄임 처리 */
+  overflow: hidden;
   font-size: 14px;
   font-weight: 400;
   color: #333;
   /* 줄내림 방지 */
   white-space: nowrap;
-  /* 말줄임 처리 */
-  overflow: hidden;
   text-overflow: ellipsis;
 }
 .item_price {
@@ -132,21 +132,19 @@
   justify-content: center;
 }
 .section_bts > a {
-  border: 1px solid #e5e5e5;
-  padding: 20px 40px;
-  border-radius: 40px;
-  background-color: #fff;
-  font-size: 16px;
-  font-weight: 700;
-
   display: flex;
   align-items: center;
+  padding: 20px 40px;
+  font-size: 16px;
+  font-weight: 700;
+  background-color: #fff;
+  border: 1px solid #e5e5e5;
+  border-radius: 40px;
   gap: 5px;
 }
 .section_bts > a > img {
   transform: translateY(1px);
 }
-/* 반응형 */
 /* 반응형 */
 @media all and (max-width: 1024px) {
   .tour {
@@ -154,7 +152,7 @@
     margin-top: 50px;
     padding-top: 10px;
   }
-  .tour .search_top {
+  .tour .section_top {
     padding-bottom: 12px;
   }
   .tour .section_title {
@@ -166,7 +164,51 @@
   .tour .section_category {
     padding-bottom: 12px;
   }
-  .section_category > li > button {
+  .section_category_bts > li > button {
     padding: 9px 20px;
+  }
+  .tour .section_slide {
+    width: 760px;
+    overflow: hidden;
+  }
+  .section_slide_wrap {
+    width: 760px;
+    overflow: hidden;
+  }
+  /* 반응형 슬라이드 높이 설정 */
+  .item {
+    height: 222px !important;
+  }
+  .item_image {
+    height: 138px !important;
+    margin-bottom: 15px !important;
+  }
+  .item_name {
+    top: 127px;
+    left: 8px;
+    padding: 3px;
+    font-size: 11px;
+    font-weight: 500;
+    border-radius: 4px;
+  }
+  .item_cupon {
+  }
+  .item_desc {
+  }
+  .item_price {
+    font-size: 14px;
+  }
+  .item_price > b {
+    font-size: 14px;
+  }
+  .item_text {
+    padding: 5px;
+  }
+
+  .section_bts > a {
+    justify-content: center;
+    width: 100%;
+    padding: 15px;
+    border-radius: 4px;
   }
 }
